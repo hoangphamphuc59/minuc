@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -6,9 +7,6 @@
     <title>Minuc</title>
 </head>
 <body>
-    <?php
-    $name = $_GET['name'];
-    ?>
-    <p> xin chào <?php echo $name; ?></p>
+    <p> xin chào </p>
 </body>
 </html>
