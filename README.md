@@ -7,6 +7,5 @@
     <title>Minuc</title>
 </head>
 <body>
-    <p> xin chào </p>
 </body>
 </html>
