@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -10,6 +9,6 @@
     <?php
     $name = $_GET['name'];
     ?>
-    <p><?php echo $name; ?></p>
+    <p> xin chào <?php echo $name; ?></p>
 </body>
 </html>
